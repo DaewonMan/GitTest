@@ -63,3 +63,18 @@ create table ek_cafe_examiner(
 select * from ek_cafe_examiner;
 
 insert into EK_CAFE_EXAMINER values('admin');
+
+----------------------------------------------------------------
+create table ek_cafe_download(
+	d_no number(5) primary key,
+	d_id varchar2(10 char) not null,
+	d_title varchar2(20 char) not null,
+	d_file varchar2(200 char) not null,
+	d_date date not null
+);
+
+create sequence ek_cafe_download_seq;
+
+select * from ek_cafe_download;
+drop table ek_cafe_download cascade constraint;
+drop sequence ek_cafe_download_seq;
