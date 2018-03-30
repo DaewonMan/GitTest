@@ -46,6 +46,7 @@
 				<a href="ExamC">영어레벨테스트</a><p>
 				<a href="BoardC">Study Zone</a><p>
 				<a href="DiaryC">Diary</a>
+				<a href="DownloadC">자료실</a><p>
 			</td>
 		</tr>
 	</table>
