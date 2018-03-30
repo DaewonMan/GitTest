@@ -44,7 +44,8 @@
 			<td class="menuTd" align="center">
 				<a href="BoardC">질의응답</a><p>
 				<a href="ExamC">영어레벨테스트</a><p>
-				<a>menu3</a><p>
+				<a href="BoardC">Study Zone</a><p>
+				<a href="DiaryC">Diary</a>
 			</td>
 		</tr>
 	</table>
