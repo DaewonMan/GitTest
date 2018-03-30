@@ -1,0 +1,55 @@
+@charset "EUC-KR";
+
+#registrationTbl {
+	margin-top: 10px;
+	width: 300px; 
+	height: 200px;
+	background-color: #E7E7E7;
+	color: black;
+	font-size: 14pt;
+	font-weight: 900;
+}
+
+#downloadArea {
+	width: 700px;
+	height: 500px;
+}
+
+.downloedItem {
+	float:left;
+	width: 200px;
+	border: black solid 3px;
+	font-size: 10pt;
+	box-shadow: 5px 5px 5px black;
+	margin: 15px;
+	height:80px;
+}
+
+.downloedItem:hover {
+	float:left;
+	margin: 15px;
+	width: 200px;
+	height:80px;
+	font-size: 10pt;
+	border-left-color: red;
+	border-right-color: red;
+	border-top-color: red;
+	border-bottom-color: red;
+	box-shadow: 5px 5px 5px black;
+}
+
+.downloadImgTd {
+	width: 35px;
+}
+
+.downloadImgTd img{
+	width: 30px;
+	height: 30px;
+}
+
+
+.downloadTitle {
+	background-color: #E7E7E7;
+	font-weight: 900;
+	color:black;
+}

@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="css/index.css">
 <link rel="stylesheet" href="css/board.css">
 <link rel="stylesheet" href="css/exam.css">
+<link rel="stylesheet" href="css/download.css">
 <script type="text/javascript" src="js/validCheck.js"></script>
 <script type="text/javascript" src="js/member.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
