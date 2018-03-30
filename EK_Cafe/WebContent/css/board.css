@@ -1,0 +1,107 @@
+@charset "EUC-KR";
+
+#boardWriteTbl {
+	border: none;
+	width: 783px;
+	height: 30px;
+}
+
+#blankTd {
+	width: 50px;
+	background-color: #E7E7E7;
+}
+
+#boardWriteTxtTd {
+	height: 60px;
+}
+
+#boardTitleTd {
+	height: 60px;
+}
+
+#boardWriteTxtTextarea {
+	resize: none;
+	width: 657px;
+	height: 60px;
+}
+
+#boardWriteBtn {
+	font-size: 14pt;
+	height: 65px;
+	width: 50px;
+}
+
+#boardArea {
+	border: none;
+	width: 783px;
+	height: 415px;
+}
+
+#pageLTd {
+	width: 50px;
+	background-color: #E7E7E7;
+}
+
+.pageL {
+	font-size: 30pt;
+	color: black;
+	text-decoration: none;
+}
+
+#pageRTd {
+	width: 50px;
+	background-color: #E7E7E7;
+}
+
+.pageR {
+	font-size: 30pt;
+	color: black;
+	text-decoration: none;
+}
+
+#boardList {
+	width: 100%; 
+}
+
+.boardImgTd {
+	padding-top: 5px;
+	background-color: white;
+	width: 90px;
+	border-bottom: gray solid 1px;
+}
+
+.boardImg {
+	margin-top: 5px;
+	border-radius: 5px;
+	width: 80px;
+	height: 80px;
+	
+}
+
+.boardId {
+	padding-top: 5px;
+	background-color: white;
+}
+.boardDate {
+	background-color: white;
+}
+
+.boardCmtDate {
+	font-size: 7pt;
+}
+
+.boardTxt {
+	background-color: white;
+	border-bottom: gray dashed 1px;
+	
+}
+.boardCmtArea {
+	background-color: white;
+	padding-top: 5px;
+}
+.boardBtnTd {
+	padding-top: 5px;
+	background-color: white;
+	border-bottom: gray solid 1px;
+	padding-bottom : 10px;
+}

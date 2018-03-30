@@ -1,0 +1,132 @@
+@charset "EUC-KR";
+body {
+	margin: 0px;
+}
+
+#homeTbl {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	height: 790px;
+	border: none;
+}
+#loginTd {
+	border: none;
+	height: 20px;
+}
+
+#mainImg {
+	height: 200px;
+	border: none;
+}
+
+#mainImg img{
+	height: 300px;
+	width: 1000px;
+}
+
+#loginInfo {
+	height: 150px;
+	width: 200px;
+	border: none;
+	background-color: #E7E7E7;
+}
+
+#contentTd {
+	height: 400px;
+	width: 800px;
+	border: none;
+}
+
+.searchTd {
+	border: none;
+	height: 17px;
+}
+
+.searchInput {
+	height: 15px;
+	width: 145px;
+}
+
+.menuTd {
+	border: none;
+	background-color: #E7E7E7;
+}
+#memberImg {
+	width: 50px;
+	height: 50px;
+	background-color: white;
+}
+
+#memberImg img{
+	max-width: 60px;
+}
+
+#memberID {
+	height: 20px;
+	color: #003399;
+	background-color: white;
+}
+
+#memberWrite {
+	height: 20px;
+	color: #003399;
+	background-color: white
+}
+
+#memberComment {
+	height: 20px;
+	color: #003399;
+	background-color: white
+}
+
+#memberLevel {
+	height: 20px;
+	color: #003399;
+	background-color: white;
+}
+
+.btnTd {
+	background-color: #E7E7E7;
+}
+
+.btnTd button{
+	width:58px;
+	font-size: 8pt;
+	background-color: transparent;
+	color: #003399;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+}
+
+#noMemberTbl {
+	width: 200px;
+	margin-left: 10px;
+	border: none;0
+}
+
+#introduceCafeTbl {
+	border: none;
+	width: 783px;
+	height: 445px;
+	
+}
+
+.introduceTitleTd {
+	border-spacing: 0px;
+	padding-left: 10px;
+	width: 90px;
+	background-color: #E7E7E7;
+	font-size: 10pt;
+	font-weight: 900;
+	border-bottom: #BDBDBD solid 1px;
+}
+
+.introduceContentTd {
+	width: 755px;
+	padding-left: 10px;
+	font-size: 9pt;
+	border-bottom: #BDBDBD solid 1px;
+	
+}

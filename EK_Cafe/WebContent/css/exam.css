@@ -1,0 +1,81 @@
+@charset "EUC-KR";
+
+#examTbl{
+	width: 750px;
+	height: 700px;
+}
+
+.examLevelTbl{
+	width: 180px;
+	border: #9E9E9E solid 2px;
+	box-shadow: 5px 5px 5px #9E9E9E;
+}
+
+.examLevelTbl:hover{
+	border: #F9A825 solid 2px;
+	box-shadow: 5px 5px 5px #F9A825;
+}
+
+.examTitldTd{
+	font-size: 25pt;
+	font-weight: 800;
+	color: #3F51B5;
+	padding-bottom: 12px;
+	border-bottom: #9E9E9E solid 1px;
+}
+
+.examEnrollTd {
+	padding-top:10px;
+}
+
+.examEnrollTd button{
+	width: 180px;
+	font-size: 12pt;
+}
+
+.examSubTitldTd{
+	font-size: 15pt;
+	font-weight: 600;
+	padding-top: 20px;
+	padding-bottom: 35px;
+}
+
+.examLevelTd{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.examLevelTd span{
+	font-size: 11pt;
+	font-weight: 600;
+}
+
+.examLevelTd img{
+	max-width: 130px;
+	max-height: 130px;
+	border-radius: 50%;
+	border: black solid 1px;
+}
+
+.examLevelTd button{
+	width: 100px;
+	margin-top: 15px;
+	background-color: #D32F2F;
+	color: white;
+	font-size: 12pt;
+	border: none;
+	outline: none;
+}
+.examBottomTd{
+	height: 100%;
+}
+
+/* enroll.jsp */
+
+.enrollTitleTd{
+	padding-bottom: 20px;
+}
+
+.enrollUserTd {
+	padding-bottom: 15px;
+}
